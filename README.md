@@ -1,2 +1,2 @@
 # Colab-practice
-Google colab practice code samples
+Google colab practice code samples in python
